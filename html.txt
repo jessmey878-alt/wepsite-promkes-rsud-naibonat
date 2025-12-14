@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>RSUD Naibonat | Promosi Kesehatan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #0a7c6a;
+            color: #fff;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 30px 20px;
+            max-width: 1000px;
+            margin: auto;
+            background: #fff;
+            margin-top: 20px;
+            border-radius: 6px;
+        }
+        h2 {
+            color: #0a7c6a;
+        }
+        .services {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        .box {
+            background: #eef7f5;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+        }
+        footer {
+            background: #0a7c6a;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Rumah Sakit Umum Daerah Naibonat</h1>
+    <p><strong>Kami Tidak Hanya Mengobati, Kami Peduli</strong></p>
+</header>
+
+<section>
+    <h2>Tentang Kami</h2>
+    <p>
+        RSUD Naibonat merupakan rumah sakit milik pemerintah daerah yang berkomitmen
+        memberikan pelayanan kesehatan yang profesional, aman, dan terjangkau
+        bagi seluruh masyarakat.
+    </p>
+    <p>
+        Kami tidak hanya mengobati penyakit, tetapi juga berperan aktif dalam
+        pencegahan dan promosi kesehatan untuk meningkatkan kualitas hidup masyarakat.
+    </p>
+</section>
+
+<section>
+    <h2>Layanan Kami</h2>
+    <div class="services">
+        <div class="box">Rawat Jalan</div>
+        <div class="box">Rawat Inap</div>
+        <div class="box">IGD 24 Jam</div>
+        <div class="box">Pelayanan Ibu & Anak</div>
+        <div class="box">Laboratorium</div>
+        <div class="box">Farmasi</div>
+        <div class="box">BPJS & Umum</div>
+    </div>
+</section>
+
+<section>
+    <h2>Promosi Kesehatan</h2>
+    <p>
+        RSUD Naibonat aktif melaksanakan kegiatan promosi kesehatan seperti:
+    </p>
+    <ul>
+        <li>Edukasi pencegahan penyakit</li>
+        <li>Pemeriksaan kesehatan rutin</li>
+        <li>Imunisasi</li>
+        <li>Pola Hidup Bersih dan Sehat (PHBS)</li>
+    </ul>
+    <p><strong>Sehat dimulai dari kesadaran dan kepedulian.</strong></p>
+</section>
+
+<section>
+    <h2>Tenaga Medis Profesional</h2>
+    <p>
+        Didukung oleh tenaga medis yang kompeten, berpengalaman, dan bekerja dengan
+        standar keselamatan serta etika pelayanan kesehatan.
+    </p>
+</section>
+
+<section>
+    <h2>Kontak Kami</h2>
+    <p>
+        <strong>RSUD Naibonat</strong><br>
+        Naibonat, Kabupaten Kupang<br>
+        Telp: (Isi Nomor Telepon)<br>
+        Email: (Isi Email Resmi)
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2025 RSUD Naibonat | Bersama Menuju Masyarakat Sehat</p>
+</footer>
+
+</body>
+</html>
